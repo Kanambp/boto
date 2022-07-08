@@ -1,4 +1,4 @@
-<h1 align="center">WHITE KING WHATSAPP BOT V1<br></h1>
+<h1 align="center">KANAMBO THE PRODICAL BOT <br></h1>
 <p align="center">
 <img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
 </p>
@@ -21,9 +21,9 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX)
-- [`2nd GC`](https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1)
-- [`3rd GC`](https://chat.whatsapp.com/JrENEhRXHv4Lix1TxjsYDF)
+- [`1st GC`](https://chat.whatsapp.com/FyWzbwQFEmWKWVHC8x1wFU)
+- [`2nd GC`](https://chat.whatsapp.com/FyWzbwQFEmWKWVHC8x1wFU)
+- [`3rd GC`](https://chat.whatsapp.com/FyWzbwQFEmWKWVHC8x1wFU)
 
   
   ## `Scan QR Code For Session`
@@ -58,8 +58,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/uwtechshow/White-King-WhatsApp-Bot
-cd White-King-WhatsApp-Bot
+git clone https://github.com/Kanambp/boto
+cd boto
 npm start
 ```
 ## `For VPS`
