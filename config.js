@@ -58,7 +58,7 @@ global.reactmoji = "😘"
 global.ownertag = ['254114148625'] //ur owner tag
 global.ownernummenu = ['254114148625'] //ur owner number in menu and all
 global.watermark = "KANAMBO THE PRODICAL BOT." //ur watermark
-global.botscript = "https://github.com/Kanambp/bot."
+global.botscript = "https://github.com/Kanambp/bot.-"
 global.linkz1 = "https://chat.whatsapp.com/FyWzbwQFEmWKWVHC8x1wFU"
 global.linkz2 = "https://chat.whatsapp.com/FyWzbwQFEmWKWVHC8x1wFU"
 
