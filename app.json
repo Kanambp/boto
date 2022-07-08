@@ -1,7 +1,7 @@
 {
-  "name": "White King Bot",
+  "name": "KANAMBO THE PRODICAL BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/udavinw/white-king-test",
+  "repository": "https://github.com/Kanambp/boto-test",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
